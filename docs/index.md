@@ -1,4 +1,4 @@
-![sLevels](assets/banner.png "sLevels")
+![sLevels](assets/sLevels.avif "sLevels")
 
 # 🚀 Getting started
 
