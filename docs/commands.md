@@ -20,3 +20,14 @@
 |:------------------------------------------------------------|:------------------------------------|
 | `/level`                                                    | `slevels.command.level`             |
 | `/levelrewards`                                             | `slevels.command.levelrewards`      |
+
+## Placeholders
+| Placeholder                                                 | Value                                  |
+|:------------------------------------------------------------|:--------------------------------------------|
+| `%slevels_level%`                                           | `Returns player's level.`                   |
+| `%slevels_next_level%`                                      | `Returns player's next level.`              |
+| `%slevels_xp%`                                              | `Returns player's current XP.`              |
+| `%slevels_xp_needed%`                                       | `Returns XP needed for the next level.`     |
+| `%slevels_percentage%`                                      | `Returns progress percentage to next level.`|
+| `%slevels_boost_multiplier%`                                | `Returns total active XP boost multiplier.` |
+| `%slevels_progress_bar%`                                    | `Returns a visual XP progress bar.`         |
