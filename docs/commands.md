@@ -14,6 +14,7 @@
 | `/slevels getallboosters <player>`                          | `slevels.command.getallboosters.`   |
 | `/slevels removeallboosters <player>`                       | `slevels.command.removeallboosters` |
 | `/slevels reset <player>`                                   | `slevels.command.reset`             |
+| `/slevels setreward <player> <level> <claimed/unclaimed>`   | `slevels.command.setreward`         |
 | `/slevels reload`                                           | `slevels.command.reload`            |
 
 ## Player Commands
